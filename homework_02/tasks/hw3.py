@@ -20,6 +20,3 @@ import itertools
 
 def combinations(*args: List[Any]) -> List[List]:
     return [list(i) for i in itertools.product(*args)]
-
-
-print(combinations([1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]))

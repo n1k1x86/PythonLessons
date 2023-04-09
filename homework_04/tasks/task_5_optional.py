@@ -22,12 +22,8 @@ from typing import List, Generator
 
 
 def fizzbuzz(n: int) -> Generator[str, None, None]:
-    for i in range(1, n + 1):
-        if i % 15 == 0:
-            yield 'fizzbuzz'
-        elif i % 5 == 0:
-            yield 'buzz'
-        elif i % 3 == 0:
-            yield 'fizz'
-        else:
-            yield str(i)
+    fizzbuzz_gen = ('fizz' * (i % 3 == 0) + 
+    'buzz' * (i % 5 == 0)
+    or str(i) 
+    for i in range(1, n + 1))
+    yield from fizzbuzz_gen

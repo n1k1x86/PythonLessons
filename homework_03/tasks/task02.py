@@ -16,4 +16,5 @@ def main():
     if __name__ == '__main__':
         pool = Pool(processes=50)
         result = sum(pool.map(slow_calculate, range(500)))
+        pool.close()
         return result

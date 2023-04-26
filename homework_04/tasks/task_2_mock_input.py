@@ -29,5 +29,11 @@ import requests
 
 
 def count_dots_on_i(url: str) -> int:
-    res = requests.get(url)
-    return res.text.count('i')
+    try:
+        res = requests.get(url)
+        if 200 <= res.status_code <= 299:
+            return res.text.count('i')
+        else:
+            raise ValueError(f"Unreachable: {url}")
+    except requests.exceptions.RequestException as e:
+        raise ValueError(f"Unreachable: {url}\nError: {e}")

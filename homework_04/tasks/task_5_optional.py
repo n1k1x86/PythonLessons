@@ -18,16 +18,9 @@ Definition of done:
 * https://en.wikipedia.org/wiki/Fizz_buzz
 ** https://www.youtube.com/watch?v=NSzsYWckGd4
 """
-from typing import List, Generator
+from typing import Generator
 
 
 def fizzbuzz(n: int) -> Generator[str, None, None]:
-    for i in range(1, n + 1):
-        if i % 15 == 0:
-            yield 'fizzbuzz'
-        elif i % 5 == 0:
-            yield 'buzz'
-        elif i % 3 == 0:
-            yield 'fizz'
-        else:
-            yield str(i)
+    fizzbuzz_gen = ('fizz' * (not i % 3) + 'buzz' * (not i % 5) or str(i) for i in range(1, n + 1))
+    yield from fizzbuzz_gen

@@ -16,7 +16,8 @@ Write a function that detects if a number is Armstrong number in functionality s
 
 ### Example function signature and call
 """
+from functools import reduce
 
 
 def is_armstrong(number: int) -> bool:
-    return sum(list(map(lambda x: int(x) ** len(str(number)), str(number)))) == number
+    return reduce(lambda x, y: int(x) + pow(int(y), len(str(number))), str(number), 0) == number

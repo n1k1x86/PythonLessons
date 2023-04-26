@@ -47,8 +47,4 @@ def fizzbuzz(n: int) -> List[str]:
 
     """
 
-    return ["fizzbuzz" if i % 15 == 0
-            else "fizz" if i % 3 == 0
-            else "buzz" if i % 5 == 0
-            else str(i)
-            for i in range(1, n + 1)]
+    return ['fizz' * (not i % 3) + 'buzz' * (not i % 5) or str(i) for i in range(1, n + 1)]

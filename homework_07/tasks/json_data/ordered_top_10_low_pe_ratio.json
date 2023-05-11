@@ -1,0 +1,112 @@
+{
+  "https://markets.businessinsider.com/stocks/ccl-stock": {
+    "code": "CCL",
+    "name": "Carnival Corp & plc paired",
+    "price": 805.28,
+    "profit_week_low": 469.36,
+    "profit_week_high": 1147.33,
+    "pe_ratio": 162.59,
+    "up_year": "-5.31",
+    "down_year": "-33.38",
+    "assets_profit": 677.97
+  },
+  "https://markets.businessinsider.com/stocks/nclh-stock": {
+    "code": "NCLH",
+    "name": "Norwegian Cruise Line Ltd",
+    "price": 1076.0,
+    "profit_week_low": 790.7,
+    "profit_week_high": 1431.86,
+    "pe_ratio": 205.54,
+    "up_year": "-4.04",
+    "down_year": "-22.08",
+    "assets_profit": 641.16
+  },
+  "https://markets.businessinsider.com/stocks/vtrs-stock": {
+    "code": "VTRS",
+    "name": "Viatris Inc Registered Shs",
+    "price": 733.95,
+    "profit_week_low": 646.52,
+    "profit_week_high": 950.99,
+    "pe_ratio": 256.92,
+    "up_year": "-0.13",
+    "down_year": "-1.31",
+    "assets_profit": 304.47
+  },
+  "https://markets.businessinsider.com/stocks/dish-stock": {
+    "code": "DISH",
+    "name": "Dish Network Corp.",
+    "price": 485.47,
+    "profit_week_low": 467.83,
+    "profit_week_high": 1798.45,
+    "pe_ratio": 299.1,
+    "up_year": "-14.95",
+    "down_year": "-67.28",
+    "assets_profit": 1330.62
+  },
+  "https://markets.businessinsider.com/stocks/mos-stock": {
+    "code": "MOS",
+    "name": "The Mosaic Co",
+    "price": 2825.37,
+    "profit_week_low": 2777.05,
+    "profit_week_high": 5107.75,
+    "pe_ratio": 299.87,
+    "up_year": "-26.26",
+    "down_year": "-40.99",
+    "assets_profit": 2330.7
+  },
+  "https://markets.businessinsider.com/stocks/dhi-stock": {
+    "code": "DHI",
+    "name": "D.R. Horton Inc.",
+    "price": 8359.53,
+    "profit_week_low": 4544.82,
+    "profit_week_high": 8532.09,
+    "pe_ratio": 315.21,
+    "up_year": "38.47",
+    "down_year": "54.93",
+    "assets_profit": 3987.27
+  },
+  "https://markets.businessinsider.com/stocks/phm-stock": {
+    "code": "PHM",
+    "name": "PulteGroup Inc",
+    "price": 5220.49,
+    "profit_week_low": 2687.32,
+    "profit_week_high": 5271.1,
+    "pe_ratio": 318.28,
+    "up_year": "24.98",
+    "down_year": "58.38",
+    "assets_profit": 2583.78
+  },
+  "https://markets.businessinsider.com/stocks/vlo-stock": {
+    "code": "VLO",
+    "name": "Valero Energy Corp.",
+    "price": 8545.89,
+    "profit_week_low": 7434.61,
+    "profit_week_high": 11668.82,
+    "pe_ratio": 331.31,
+    "up_year": "-21.86",
+    "down_year": "-16.92",
+    "assets_profit": 4234.21
+  },
+  "https://markets.businessinsider.com/stocks/mpc-stock": {
+    "code": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "price": 8605.71,
+    "profit_week_low": 5956.74,
+    "profit_week_high": 10563.68,
+    "pe_ratio": 338.98,
+    "up_year": "12.75",
+    "down_year": "13.29",
+    "assets_profit": 4606.94
+  },
+  "https://markets.businessinsider.com/stocks/gm-stock": {
+    "code": "GM",
+    "name": "General Motors",
+    "price": 2543.9,
+    "profit_week_low": 2326.86,
+    "profit_week_high": 3346.11,
+    "pe_ratio": 340.52,
+    "up_year": "-5.94",
+    "down_year": "-15.00",
+    "assets_profit": 1019.25
+  }
+}

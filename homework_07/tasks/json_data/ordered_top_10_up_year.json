@@ -1,0 +1,112 @@
+{
+  "https://markets.businessinsider.com/stocks/snps-stock": {
+    "code": "SNPS",
+    "name": "Synopsys Inc.",
+    "price": 28606.45,
+    "profit_week_low": 19558.22,
+    "profit_week_high": 30095.06,
+    "pe_ratio": 2507.09,
+    "up_year": "97.03",
+    "down_year": "35.32",
+    "assets_profit": 10536.84
+  },
+  "https://markets.businessinsider.com/stocks/re-stock": {
+    "code": "RE",
+    "name": "Everest Reinsurance Group Ltd.",
+    "price": 29601.93,
+    "profit_week_low": 18765.22,
+    "profit_week_high": 30157.18,
+    "pe_ratio": 939.49,
+    "up_year": "95.80",
+    "down_year": "33.33",
+    "assets_profit": 11391.96
+  },
+  "https://markets.businessinsider.com/stocks/vrtx-stock": {
+    "code": "VRTX",
+    "name": "Vertex Pharmaceuticals Inc.",
+    "price": 26724.41,
+    "profit_week_low": 17880.18,
+    "profit_week_high": 27184.57,
+    "pe_ratio": 1489.38,
+    "up_year": "90.16",
+    "down_year": "35.51",
+    "assets_profit": 9304.39
+  },
+  "https://markets.businessinsider.com/stocks/wab-stock": {
+    "code": "WAB",
+    "name": "Wabtec Corp. (Westinghouse Air Brake Technologies Corp.)",
+    "price": 7535.08,
+    "profit_week_low": 6011.96,
+    "profit_week_high": 8271.33,
+    "pe_ratio": 1572.97,
+    "up_year": "9.53",
+    "down_year": "10.61",
+    "assets_profit": 2259.37
+  },
+  "https://markets.businessinsider.com/stocks/afl-stock": {
+    "code": "AFL",
+    "name": "Aflac Inc",
+    "price": 5116.95,
+    "profit_week_low": 3994.17,
+    "profit_week_high": 5676.04,
+    "pe_ratio": 972.47,
+    "up_year": "9.43",
+    "down_year": "16.19",
+    "assets_profit": 1681.87
+  },
+  "https://markets.businessinsider.com/stocks/abc-stock": {
+    "code": "ABC",
+    "name": "AmerisourceBergen Corp.",
+    "price": 12903.58,
+    "profit_week_low": 10364.28,
+    "profit_week_high": 13390.58,
+    "pe_ratio": 934.12,
+    "up_year": "9.14",
+    "down_year": "5.75",
+    "assets_profit": 3026.3
+  },
+  "https://markets.businessinsider.com/stocks/spgi-stock": {
+    "code": "SPGI",
+    "name": "S&P Global Inc",
+    "price": 28376.37,
+    "profit_week_low": 21461.74,
+    "profit_week_high": 30338.94,
+    "pe_ratio": 2325.33,
+    "up_year": "9.01",
+    "down_year": "2.60",
+    "assets_profit": 8877.2
+  },
+  "https://markets.businessinsider.com/stocks/holx-stock": {
+    "code": "HOLX",
+    "name": "Hologic IncShs",
+    "price": 6416.89,
+    "profit_week_low": 4584.7,
+    "profit_week_high": 6739.77,
+    "pe_ratio": 828.28,
+    "up_year": "8.99",
+    "down_year": "12.13",
+    "assets_profit": 2155.07
+  },
+  "https://markets.businessinsider.com/stocks/hwm-stock": {
+    "code": "HWM",
+    "name": "Howmet Aerospace",
+    "price": 3409.0,
+    "profit_week_low": 2291.58,
+    "profit_week_high": 3504.87,
+    "pe_ratio": 2157.37,
+    "up_year": "8.77",
+    "down_year": "25.04",
+    "assets_profit": 1213.29
+  },
+  "https://markets.businessinsider.com/stocks/rost-stock": {
+    "code": "ROST",
+    "name": "Ross Stores Inc.",
+    "price": 7838.01,
+    "profit_week_low": 5310.22,
+    "profit_week_high": 9388.74,
+    "pe_ratio": 2080.68,
+    "up_year": "8.59",
+    "down_year": "8.93",
+    "assets_profit": 4078.52
+  }
+}

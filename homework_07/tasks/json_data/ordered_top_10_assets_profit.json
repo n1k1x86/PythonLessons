@@ -1,0 +1,112 @@
+{
+  "https://markets.businessinsider.com/stocks/mtd-stock": {
+    "code": "MTD",
+    "name": "Mettler-Toledo International Inc.",
+    "price": 105234.16,
+    "profit_week_low": 5509.62,
+    "profit_week_high": 46577.13,
+    "pe_ratio": 2836.1,
+    "up_year": "78.76",
+    "down_year": "5.99",
+    "assets_profit": 41067.51
+  },
+  "https://markets.businessinsider.com/stocks/nvr-stock": {
+    "code": "NVR",
+    "name": "NVR Inc.",
+    "price": 447618.88,
+    "profit_week_low": 44942.04,
+    "profit_week_high": 75579.32,
+    "pe_ratio": 723.98,
+    "up_year": "441.48",
+    "down_year": "32.70",
+    "assets_profit": 30637.28
+  },
+  "https://markets.businessinsider.com/stocks/orly-stock": {
+    "code": "ORLY",
+    "name": "O Reilly Automotive Inc",
+    "price": 73123.61,
+    "profit_week_low": 43170.43,
+    "profit_week_high": 73701.88,
+    "pe_ratio": 1935.73,
+    "up_year": "338.24",
+    "down_year": "55.60",
+    "assets_profit": 30531.45
+  },
+  "https://markets.businessinsider.com/stocks/tdg-stock": {
+    "code": "TDG",
+    "name": "TransDigm Group IncShs",
+    "price": 62131.99,
+    "profit_week_low": 38318.07,
+    "profit_week_high": 62524.65,
+    "pe_ratio": 2354.47,
+    "up_year": "188.26",
+    "down_year": "32.25",
+    "assets_profit": 24206.58
+  },
+  "https://markets.businessinsider.com/stocks/regn-stock": {
+    "code": "REGN",
+    "name": "Regeneron Pharmaceuticals Inc.",
+    "price": 57751.29,
+    "profit_week_low": 41281.49,
+    "profit_week_high": 64211.13,
+    "pe_ratio": 1220.95,
+    "up_year": "129.07",
+    "down_year": "20.72",
+    "assets_profit": 22929.64
+  },
+  "https://markets.businessinsider.com/stocks/blk-stock": {
+    "code": "BLK",
+    "name": "BlackRock Inc.",
+    "price": 48427.73,
+    "profit_week_low": 38710.74,
+    "profit_week_high": 60226.17,
+    "pe_ratio": 1552.26,
+    "up_year": "14.82",
+    "down_year": "2.36",
+    "assets_profit": 21515.43
+  },
+  "https://markets.businessinsider.com/stocks/gww-stock": {
+    "code": "GWW",
+    "name": "Grainger Inc., W.W.",
+    "price": 52263.14,
+    "profit_week_low": 33787.82,
+    "profit_week_high": 54333.85,
+    "pe_ratio": 1464.07,
+    "up_year": "200.33",
+    "down_year": "41.92",
+    "assets_profit": 20546.03
+  },
+  "https://markets.businessinsider.com/stocks/eqix-stock": {
+    "code": "EQIX",
+    "name": "Equinix Inc",
+    "price": 57495.13,
+    "profit_week_low": 37971.42,
+    "profit_week_high": 58407.01,
+    "pe_ratio": 6639.3,
+    "up_year": "26.68",
+    "down_year": "3.74",
+    "assets_profit": 20435.59
+  },
+  "https://markets.businessinsider.com/stocks/uri-stock": {
+    "code": "URI",
+    "name": "United Rentals Inc.",
+    "price": 25773.42,
+    "profit_week_low": 17695.35,
+    "profit_week_high": 36939.9,
+    "pe_ratio": 835.95,
+    "up_year": "45.47",
+    "down_year": "15.39",
+    "assets_profit": 19244.55
+  },
+  "https://markets.businessinsider.com/stocks/lrcx-stock": {
+    "code": "LRCX",
+    "name": "Lam Research Corp.",
+    "price": 40440.17,
+    "profit_week_low": 22979.49,
+    "profit_week_high": 42077.56,
+    "pe_ratio": 972.47,
+    "up_year": "48.56",
+    "down_year": "10.15",
+    "assets_profit": 19098.07
+  }
+}

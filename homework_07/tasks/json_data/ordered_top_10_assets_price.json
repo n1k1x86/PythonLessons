@@ -1,0 +1,112 @@
+{
+  "https://markets.businessinsider.com/stocks/nvr-stock": {
+    "code": "NVR",
+    "name": "NVR Inc.",
+    "price": 447618.88,
+    "profit_week_low": 44942.04,
+    "profit_week_high": 75579.32,
+    "pe_ratio": 723.98,
+    "up_year": "441.48",
+    "down_year": "32.70",
+    "assets_profit": 30637.28
+  },
+  "https://markets.businessinsider.com/stocks/azo-stock": {
+    "code": "AZO",
+    "name": "AutoZone Inc.",
+    "price": 209468.25,
+    "profit_week_low": 54044.72,
+    "profit_week_high": 57519.67,
+    "pe_ratio": 1387.37,
+    "up_year": "713.40",
+    "down_year": "35.70",
+    "assets_profit": 3474.95
+  },
+  "https://markets.businessinsider.com/stocks/bkng-stock": {
+    "code": "BKNG",
+    "name": "Booking Holdings Inc Registered Shs",
+    "price": 202874.96,
+    "profit_week_low": 47663.87,
+    "profit_week_high": 55832.43,
+    "pe_ratio": 1526.96,
+    "up_year": "445.24",
+    "down_year": "20.29",
+    "assets_profit": 8168.56
+  },
+  "https://markets.businessinsider.com/stocks/cmg-stock": {
+    "code": "CMG",
+    "name": "Chipotle Mexican Grill Inc.",
+    "price": 157565.56,
+    "profit_week_low": 15104.67,
+    "profit_week_high": 5860.87,
+    "pe_ratio": 3279.39,
+    "up_year": "677.39",
+    "down_year": "50.01",
+    "assets_profit": -9243.8
+  },
+  "https://markets.businessinsider.com/stocks/mtd-stock": {
+    "code": "MTD",
+    "name": "Mettler-Toledo International Inc.",
+    "price": 105234.16,
+    "profit_week_low": 5509.62,
+    "profit_week_high": 46577.13,
+    "pe_ratio": 2836.1,
+    "up_year": "78.76",
+    "down_year": "5.99",
+    "assets_profit": 41067.51
+  },
+  "https://markets.businessinsider.com/stocks/orly-stock": {
+    "code": "ORLY",
+    "name": "O Reilly Automotive Inc",
+    "price": 73123.61,
+    "profit_week_low": 43170.43,
+    "profit_week_high": 73701.88,
+    "pe_ratio": 1935.73,
+    "up_year": "338.24",
+    "down_year": "55.60",
+    "assets_profit": 30531.45
+  },
+  "https://markets.businessinsider.com/stocks/tdg-stock": {
+    "code": "TDG",
+    "name": "TransDigm Group IncShs",
+    "price": 62131.99,
+    "profit_week_low": 38318.07,
+    "profit_week_high": 62524.65,
+    "pe_ratio": 2354.47,
+    "up_year": "188.26",
+    "down_year": "32.25",
+    "assets_profit": 24206.58
+  },
+  "https://markets.businessinsider.com/stocks/regn-stock": {
+    "code": "REGN",
+    "name": "Regeneron Pharmaceuticals Inc.",
+    "price": 57751.29,
+    "profit_week_low": 41281.49,
+    "profit_week_high": 64211.13,
+    "pe_ratio": 1220.95,
+    "up_year": "129.07",
+    "down_year": "20.72",
+    "assets_profit": 22929.64
+  },
+  "https://markets.businessinsider.com/stocks/eqix-stock": {
+    "code": "EQIX",
+    "name": "Equinix Inc",
+    "price": 57495.13,
+    "profit_week_low": 37971.42,
+    "profit_week_high": 58407.01,
+    "pe_ratio": 6639.3,
+    "up_year": "26.68",
+    "down_year": "3.74",
+    "assets_profit": 20435.59
+  },
+  "https://markets.businessinsider.com/stocks/gww-stock": {
+    "code": "GWW",
+    "name": "Grainger Inc., W.W.",
+    "price": 52263.14,
+    "profit_week_low": 33787.82,
+    "profit_week_high": 54333.85,
+    "pe_ratio": 1464.07,
+    "up_year": "200.33",
+    "down_year": "41.92",
+    "assets_profit": 20546.03
+  }
+}
